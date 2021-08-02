@@ -1,8 +1,8 @@
-# :computer: Employee Tracker
+# :computer: eCommerce Backend App
 
 [![License](https://img.shields.io/badge/License-MIT%20-blue.svg)](https://opensource.org/licenses/MIT)
 
-![Screenshot of HTML page](./Assets/ss.jpg)
+![Screenshot of HTML page](https://github.com/jazcr/eCommerceApp/blob/b4a931619c7ee24fe96d23add16ce8f221e91460/Assets/ss.JPG)
 
 <br>  
 <br> 
